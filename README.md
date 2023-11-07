@@ -8,6 +8,6 @@
 * pyautogui
 * opencv
 
-* 指令：
+### 指令：
 * ```pip install pyautogui ```
 * ```pip install opencv-python```
