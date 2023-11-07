@@ -11,3 +11,6 @@
 ### 指令：
 * ```pip install pyautogui ```
 * ```pip install opencv-python```
+
+# 原理
+* 用圖形檢測來協助點擊按鈕
